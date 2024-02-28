@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddd8b670-42f0-4351-8344-2ef221d22fdf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../audit/module2/.idea/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module2/src/_18_regex/exercise/regex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/Util/ConstantUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/Util/ValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/controller/ContractServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/controller/EmployeeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/controller/ServiceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/model/CustomerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/model/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/model/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/model/dto/CustomerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/repository/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/repository/IGenderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/repository/impl/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/repository/impl/GenderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/service/IGenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/service/impl/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/java/com/example/furamamanage/service/impl/GenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/css/create_form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/css/table_color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/script/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/contract.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/customer/create_customer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/customer/customer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/customer/update_customer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/employee/create_employee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/employee/employee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/employee/update_employee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/CaseStudy/furama-manage/src/main/webapp/view/service.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_07/exercise/e_02_facebook/.idea/e_02_facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/css/create.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/css/view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/controller/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/model/dto/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/model/dto/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/repository/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/repository/IClassRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/repository/IStudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/repository/impl/ClassRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/repository/impl/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/service/IClassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/service/impl/ClassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/java/com/example/studentmanager/service/impl/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/webapp/css/create.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/webapp/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/webapp/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../module3/session_12/practice/student-manager/src/main/webapp/student/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/module4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e1/src/main/java/com/example/e1/controller/ConvertController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e1/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/java/com/example/e2/controller/TController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/java/com/example/e2/repository/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/java/com/example/e2/repository/impl/TRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/java/com/example/e2/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/java/com/example/e2/service/impl/TService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/exercise/e2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p1/src/main/java/com/example/p1/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p1/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p1/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_01/practice/p2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/java/com/example/p1/service/impl/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../session_03/practice/p1/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise/e1/src/main/webapp/WEB-INF/views/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise/e1/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/src/main/java/com/example/p1/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/src/main/java/com/example/p1/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/src/main/webapp/WEB-INF/views/employee/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p1/src/main/webapp/WEB-INF/views/employee/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p2/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p2/src/main/java/com/example/p2/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p2/src/main/java/com/example/p2/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p2/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p2/src/main/webapp/WEB-INF/views/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/repository/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/repository/impl/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/java/com/example/stringusermodel/service/impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-user-model/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/model/ProductForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/repository/impl/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadfile/service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/upload_file.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_10/exercise/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_10/exercise/calculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_10/exercise/product-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_10/exercise/product-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_11/exercise/product-management/src/main/webapp/product/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_11/exercise/product-management/src/main/webapp/product/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_11/practice/user-manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_11/practice/user-manager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/java/codegym/com/usermanager/repository/IUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/java/codegym/com/usermanager/repository/IUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/java/codegym/com/usermanager/repository/impl/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/java/codegym/com/usermanager/repository/impl/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../module3/session_12/exercise/user-manager/src/main/webapp/user/view.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2claZHKhdvU2gE0xYCQaBF1IDHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/A0623I1/module4/session_04/practice/upload-file",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "d7f6c20a467acdd2809317fcce4fc29b",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\A0623I1\module4\session_04\practice\upload-file\src\main\java\com\example\uploadfile\repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.85" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.85" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : com.example : upload-file-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_example___upload_file_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : upload-file-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddd8b670-42f0-4351-8344-2ef221d22fdf" name="Changes" comment="" />
+      <created>1708688674554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708688674554</updated>
+      <workItem from="1708688675570" duration="2229000" />
+      <workItem from="1708951013875" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

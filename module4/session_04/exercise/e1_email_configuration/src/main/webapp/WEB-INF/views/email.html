@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>THE PROGRAM EMAIL CONFIGURATION</h1>
+<table>
+  <tr>
+    <td>Languages:</td>
+    <td th:text="${s.language}"></td>
+  </tr>
+  <tr>
+    <td>Page Size:</td>
+    <td th:text="${s.pageSize}"></td>
+  </tr>
+  <tr>
+    <td>Spams filter:</td>
+    <td th:text="${s.spamFilter}"></td>
+  </tr>
+  <tr>
+    <td>Signature:</td>
+    <td th:text="${s.signature}"></td>
+  </tr>
+</table>
+<a th:href="@{/email/update}">update</a>
+</body>
+</html>
