@@ -14,4 +14,10 @@ public interface ICustomerRepository {
     void update(Integer id, Customer customer);
 
     void delete(int id);
+
+    List<Customer> searchByName(String searchTxt);
+
+    List<Customer> searchByPrice(String searchTxt);
+
+    List<Customer> searchByProducer(String searchTxt);
 }

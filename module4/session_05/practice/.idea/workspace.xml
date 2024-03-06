@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c57eb50d-de3d-4f4a-b0f3-d71797fad0a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/model/Upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/model/UploadForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/repository/IUploadRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/repository/impl/UploadRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/service/IUploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/service/impl/UploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/resources/upload_file.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/src/main/java/com/example/e3_declare_medical/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/src/main/java/com/example/e3_declare_medical/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session_04/practice/spring-upload-file-develop/e3_declare_medical/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/src/main/java/com/example/e1/controller/ConvertController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/java/com/example/e2/controller/TController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/java/com/example/e2/repository/IRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/java/com/example/e2/repository/impl/TRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/java/com/example/e2/service/IService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/java/com/example/e2/service/impl/TService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/exercise/e2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/src/main/java/com/example/p1/controller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/src/main/java/com/example/p2/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_02 - Copy (3)/practice/p2/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e1_email_configuration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/exercise/e1_email_configuration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/java/com/example/e2_upload_songs/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/exercise/e2_upload_songs/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/practice/string-user-model/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/practice/string-user-model/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/practice/upload-file/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/practice/upload-file/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session_04/practice/upload-file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session_04/practice/upload-file/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2d1bud5SHQJK7zKgfKFeqD5JymL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/A0623I1-2/module4/session_05/practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c57eb50d-de3d-4f4a-b0f3-d71797fad0a3" name="Changes" comment="" />
+      <created>1709178755638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709178755638</updated>
+      <workItem from="1709178756750" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

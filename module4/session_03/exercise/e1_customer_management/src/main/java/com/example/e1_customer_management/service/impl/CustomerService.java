@@ -37,4 +37,19 @@ public class CustomerService implements ICustomerService {
     public void delete(int id) {
         repository.delete(id);
     }
+
+    @Override
+    public List<Customer> searchByName(String searchTxt) {
+        return repository.searchByName(searchTxt);
+    }
+
+    @Override
+    public List<Customer> searchByPrice(String searchTxt) {
+        return repository.searchByPrice(searchTxt);
+    }
+
+    @Override
+    public List<Customer> searchByProducer(String searchTxt) {
+        return repository.searchByProducer(searchTxt);
+    }
 }

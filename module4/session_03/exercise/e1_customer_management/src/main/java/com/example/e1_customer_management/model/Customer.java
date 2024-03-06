@@ -57,4 +57,15 @@ public class Customer {
     public void setProducer(String producer) {
         this.producer = producer;
     }
+
+//    @Override
+//    public String toString() {
+//        return "Customer{" +
+//                "id=" + id +
+//                ", name='" + name + '\'' +
+//                ", price=" + price +
+//                ", description='" + description + '\'' +
+//                ", producer='" + producer + '\'' +
+//                '}';
+//    }
 }

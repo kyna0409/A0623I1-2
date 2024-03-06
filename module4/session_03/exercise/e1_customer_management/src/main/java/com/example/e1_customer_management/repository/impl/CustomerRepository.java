@@ -45,4 +45,41 @@ public class CustomerRepository implements ICustomerRepository {
     public void delete(int id) {
         customers.remove(id);
     }
+
+    @Override
+    public List<Customer> searchByName(String searchTxt) {
+        List<Customer> customerList = new ArrayList<>();
+        for (Customer customer:customers.values()) {
+            if(customer.getName().contains(searchTxt))
+            {
+                customerList.add(customer);
+            }
+        }
+        return customerList;
+    }
+
+
+    @Override
+    public List<Customer> searchByPrice(String searchTxt) {
+        List<Customer> customerList = new ArrayList<>();
+        for (Customer customer:customers.values()) {
+            if(customer.getPrice().toString().contains(searchTxt))
+            {
+                customerList.add(customer);
+            }
+        }
+        return customerList;
+    }
+
+    @Override
+    public List<Customer> searchByProducer(String searchTxt) {
+        List<Customer> customerList = new ArrayList<>();
+        for (Customer customer:customers.values()) {
+            if(customer.getProducer().contains(searchTxt))
+            {
+                customerList.add(customer);
+            }
+        }
+        return customerList;
+    }
 }

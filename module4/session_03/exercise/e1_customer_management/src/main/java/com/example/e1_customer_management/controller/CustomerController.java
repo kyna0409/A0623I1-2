@@ -70,19 +70,31 @@ public class CustomerController {
         return "view";
     }
     @PostMapping("/search")
-    public String search(@RequestParam(name = "search_choose") String search_choose,@RequestParam(name = "search_txt") String search_txt,RedirectAttributes redirectAttributes)
+    public String search(@RequestParam(name = "search_choose") String search_choose,@RequestParam(name = "search_txt") String search_txt,Model model)
     {
+        List<Customer> customerList = null;
+//        if(search_choose.equals("name"))
+//        {
+//            customerList = service.searchByName(search_txt);
+//        }
         switch (search_choose)
         {
             case "name":
+                customerList = service.searchByName(search_txt);
                 break;
             case "price":
+                customerList = service.searchByPrice(search_txt);
                 break;
             case "producer":
+                customerList = service.searchByProducer(search_txt);
                 break;
             default:
                 break;
         }
-        return "redirect:/customer";
+//        model.addAttribute("customers", customerList);
+//        model.addAttribute("success","khong tim thay ket qua");
+
+            model.addAttribute("customers", customerList);
+        return "index";
     }
 }
